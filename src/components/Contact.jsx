@@ -76,12 +76,6 @@ const Contact = () => {
       value: 'Harar, Ethiopia',
       link: null
     },
-    {
-      icon: <FaLinkedin />,
-      title: 'LinkedIn',
-      value: 'linkedin.com/in/yourprofile',
-      link: 'https://linkedin.com/in/yourprofile'
-    }
   ]
 
   return (

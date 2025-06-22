@@ -29,10 +29,10 @@ const Footer = () => {
           <div className="footer-section">
             <h4>Connect</h4>
             <div className="social-links">
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/yosephabdurhman/" target="_blank" rel="noopener noreferrer">
                 <FaGithub /> GitHub
               </a>
-              <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/yoseph-abdurhman-635705349/" target="_blank" rel="noopener noreferrer">
                <FaLinkedin /> LinkedIn
               </a>
               <a href="h.com/yourusername" target="_blank" rel="noopener noreferrer">
@@ -43,8 +43,8 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {currentYear} Your Name. All rights reserved.</p>
-          <p>Built with  using React & Vite</p>
+          <p>&copy; {currentYear} Yoseph Abdurhman. All rights reserved.</p>
+        
         </div>
       </div>
     </footer>
